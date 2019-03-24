@@ -1,0 +1,28 @@
+styling--
+CSS--Cascading style sheets
+style attribute we can style a tag 
+
+three types of styling implemetation
+
+tag level-
+internal
+external
+
+
+re-use:
+class attribute
+adding classes
+
+--------------------------
+priorty:
+style attribute-- at the tag level--1
+	tag level-- specific element
+header internal styling--
+	multiple tags in a same file 
+external styling -- add css extranl file
+	applicable to mutliple files and multiple tags
+
+---------------------------------------------
+class vs id
+id should be unique
+class can be duplicated
