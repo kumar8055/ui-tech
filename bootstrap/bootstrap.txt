@@ -1,0 +1,8 @@
+someone will write css classes and components
+we will use those components readymade
+
+steps:
+1. Add the css link of bootstrap into header section of the **first** html file.
+2. get the components from the bootstrap website and paste them directly into your html file
+3. customize if you need.
+4. if required add external css links and files as many as needed in the header section.
